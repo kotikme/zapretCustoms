@@ -59,6 +59,4 @@ api.ffzap.com
 api.frankerfacez.com
 compute-1.amazonaws.com
 cloudfront.net
-whitewolf.fandom.com
 localizeapi.com
-www.fandom.com
